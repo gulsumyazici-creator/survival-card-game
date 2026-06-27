@@ -47,7 +47,6 @@
  * - Python 3.6+ (for test runner)
  *
  * @author Gülsüm Yazıcı
- * Student ID: 2023400072
  */
 
 import java.io.*;
